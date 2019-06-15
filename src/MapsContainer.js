@@ -70,9 +70,11 @@ export class MapsContainer extends React.Component {
             <div>
                 <Map style={style} onClick={this.hideInfoWindow.bind(this)} google={this.props.google} initialCenter={this.state.currentLocation===null ? { lat: 39.768610, lng: -86.157370 } : this.state.currentLocation }>
                     {displayData.map((item) => {
+                        const name = item["properties"]["DESCRIPTION"] ? item["properties"]["DESCRIPTION"] : item["properties"]["Provider Name"]? item["properties"]["Provider Name"] : item["properties"]["LOCATION"] 
+                        const key = item["properties"]["OBJECTID"] ? item["properties"]["OBJECTID"] : item["properties"]["ADDRESS"] ? item["properties"]["ADDRESS"] : item["properties"]["Address"]
                         return <Marker 
-                            key={item["properties"]["OBJECTID"]} 
-                            name={item["properties"]["DESCRIPTION"]}
+                            key={key} 
+                            name={name}
                             position={{ lng: item["geometry"]["coordinates"][0], lat: item["geometry"]["coordinates"][1]}}
                             onClick={this.markerHandler.bind(this)} />
                     })}
