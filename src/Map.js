@@ -25,8 +25,8 @@ export default class Map extends React.Component {
         return(
             <Container fluid>
                 <Row>
-                    <Col xs={12} md={3}>
-                        <div className="map-sidebar">
+                    <Col xs={12} md={2}>
+                        <div className="map-sidebar" style={{ margin: "0 auto"}}>
                             <select dataSelection onChange={this.changeHandler.bind(this)} value={this.state.selectVal}>
                                 <option value="busStops" defaultValue>Bus Stops</option>
                                 <option value="blueIndy">Blue Indy Locations</option>
@@ -41,8 +41,11 @@ export default class Map extends React.Component {
                                 </div> : null }
                         </div>
                     </Col>
-                    <Col xs={12} md={9} style={{ minHeight: "300px", minWidth: "300px", width: "70vw", height: "70vh", maxWidth: "1000px", maxHeight: "1000px"}}>
-                        <GoogleApiWrapper displayData={this.state.selectedData} />
+                    <Col xs={12} md={9} style={{ minHeight: "70vh"}}>
+                        <div style={{ width: "100%", height: "100%",}}>
+                            <GoogleApiWrapper displayData={this.state.selectedData} />
+
+                        </div>
                     </Col>
                 </Row>
             </Container>
