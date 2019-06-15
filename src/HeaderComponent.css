@@ -11,6 +11,10 @@
     color: white;
   }
 
+.homePageWrapper{
+  background-color: rgb(42,153,136);
+}
+
 .NavigationBar {
     background-color: rgb(42,153,136);
     min-width: 100vw;
