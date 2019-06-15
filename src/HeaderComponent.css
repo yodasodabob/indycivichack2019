@@ -34,7 +34,7 @@
   .BootstrapNav {
     min-height: 100%;
     font-size: calc(10px + 2vmin);
-    background-color: rgb(42,153,136) !important;
+    background-color: rgb(62, 97, 92) !important;
   }
   .WebsiteTitleLogo{
     display: flex;
@@ -50,11 +50,11 @@
       display: flex;
       align-items: center;
       padding: 0% 2%;
-      border: 2px solid #d6b500;
+      border: 3px solid #d6b500;
       border-top-style: none;
-      border-bottom-style: none;
+      border-left-style: none;
       border-right-style: none;
-      color: rgb(41, 179, 158);
+      color: rgb(226, 255, 253);
   }
   .searchForm{
     height: 100%;
