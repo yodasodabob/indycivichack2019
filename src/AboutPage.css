@@ -12,6 +12,9 @@
 #para1 {
     font-family: 'Josefin Sans', sans-serif;
     color:#e0c52b;
-    width: 90%;
+    width: 100%;
     
+}
+.AboutP{
+    font-size: 1.4rem;
 }

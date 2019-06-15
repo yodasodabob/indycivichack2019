@@ -7,7 +7,7 @@
     color: #e0c52b;
     height: 100%;
     background-color: #2A9988;
-    width: 50%;
+    width: 70%;
 }
 .introPara{
 
@@ -28,7 +28,7 @@
       text-emphasis: bold;
         font-size: 20pt;
         text-align: center;
-        color: white;
+        color: #ffe553;
   }
 .homePageWrapper{
     background-color: #2A9988;

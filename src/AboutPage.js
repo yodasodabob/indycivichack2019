@@ -10,7 +10,7 @@ export class AboutPage extends React.Component{
             <div className="AboutBody">
             <div id= "para1">
                 <h1>We're Mandela Effect</h1>
-                <p> 
+                <p className="AboutP"> 
                     We're a group of dedicated individuals looking to help those
                     wanting another chance at a better life. At Mandela Effect, your
                     background does not define you -- instead it should only
