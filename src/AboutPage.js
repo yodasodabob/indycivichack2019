@@ -8,7 +8,7 @@ export class AboutPage extends React.Component{
         return(
         <div className="AboutPageWrapper">
             <div className="AboutBody">
-<<<<<<< HEAD
+
             <div id= "para1">
                 <h1>We're Mandela Effect</h1>
                 <p> 
@@ -20,13 +20,12 @@ export class AboutPage extends React.Component{
                     about you is completely wrong.
                 </p>
                 </div>
-=======
-                <h1>I'm the about page</h1>
+
             </div>
             
->>>>>>> 2f40902f97a74a7b8b0e1c01502dfafff36d3060
+
             </div>
-         </div>
+
         )
     }
 }
