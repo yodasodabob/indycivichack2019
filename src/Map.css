@@ -1,8 +1,9 @@
 .map-sidebar {
-    width: 20vw;
+    width: 100%;
     min-width: 100 px;
     min-height: 50 px;
     margin: "0 auto";
+    align-content: center;
 }
 .container-fluid{
     min-height: 100%;

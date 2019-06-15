@@ -19,7 +19,7 @@ function App() {
  
     <div className="App">
       <div><HeaderComponent></HeaderComponent></div>
-      <div className="SwitchDiv" style={{ marginTop: "10px"}}>
+      <div className="SwitchDiv" style={{ marginTop: "20px" }}>
         <Switch >
           <Route path="/Tutorial" render={() => <div className="TutorialSwitchWrapper"><TutorialPage /></div>} />
           <Route path="/About" render={() => <div className="AboutSwitchWrapper"><AboutPage /></div>} />
