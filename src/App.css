@@ -12,7 +12,6 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-  width: 40vw;
 }
 
 .App-link {
@@ -28,9 +27,12 @@
 .WebsiteTitle {
   background-color: black;
   min-height: 11vh;
+  min-width: 100vw;
+
 }
 
 .NavigationBar {
   background-color: #1a4721;
   min-height: 9vh;
+  min-width: 100vw;
 }
