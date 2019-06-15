@@ -1,16 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 20%;
+  height: 20vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -23,11 +20,54 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App-body {
+  background-color: white;
+  min-height: 80%;
+  height: 80vh;
+}
+
+.WebsiteTitle {
+  background-color: #E0E0E0;
+  min-height: 11vh;
+  min-width: 100vw;
+  font-family: 'Montserrat', sans-serif;
+  color:  black;
+  line-height: 100px;
+  padding-right: 900px;
+
+
+}
+
+.NavigationBar {
+  background-color: rgb(42,153,136);
+  color: rgb(214, 181, 0);
+  width: 1000px;
+  min-height: 100vh;
+  padding: 50px;
+  margin: 20px;
+  font-size: 50px;
+  text-align: center;
+  background-attachment: fixed;
+  background-position: center;
+
+  -webkit-animation: fadein 2s;
+  -moz-animation: fadein 2s;
+  
+}
+
+@keyframes fadein {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+@-moz-keyframes fadein {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+@-webkit-keyframes fadein {
+
+  from {opacity: 0; }
+  to {opacity: 1;}
+
 }
