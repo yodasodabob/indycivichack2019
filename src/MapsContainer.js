@@ -3,6 +3,7 @@ import React from 'react'
 import { GoogleApiWrapper, Map, Marker, InfoWindow } from 'google-maps-react'
 import IndyBusJson from './data/IndyGo_Bus_Stops.json'
 import customIcon from './images/star.png'
+import './MapsContainer.css'
 
 const mapsURLPre = "https://www.google.com/maps/"
 const mapsAPISnippet = "?api=1"
@@ -11,10 +12,10 @@ const buildDirReqLatLong = (lat, long) => {
 }
 const buildInfoWindowContents = (name, lat, long) => {
     return(
-        <React.Fragment>
+        <div className="mapPopup">
             <h5>{name}</h5>
-            <p><a href={buildDirReqLatLong(lat, long)}>Click here for directions!</a></p>
-        </React.Fragment>
+            <p className="mapPopupText"><a href={buildDirReqLatLong(lat, long)}>Click here for directions!</a></p>
+        </div>
     )
 }
 
@@ -95,6 +96,7 @@ export class MapsContainer extends React.Component {
                         {this.state.infoWindowContents}
                     </InfoWindow>
                 </Map>
+                <div style={{ fontSize: "1em", }}>Icon made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
             </div>
         )
     }
