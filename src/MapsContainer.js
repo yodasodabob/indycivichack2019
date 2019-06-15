@@ -38,7 +38,7 @@ export class MapsContainer extends React.Component {
                             key={item["properties"]["OBJECTID"]} 
                             name={item["properties"]["DESCRIPTION"]}
                             position={{ lng: item["geometry"]["coordinates"][0], lat: item["geometry"]["coordinates"][1]}}
-                            onClick={markerClickHandler.bind(this)} />
+                            onClick={this.props.markerHandler} />
                     })}
                 </Map>
             </div>

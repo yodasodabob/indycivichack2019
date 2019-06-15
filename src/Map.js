@@ -4,15 +4,29 @@ import dataObj from './Data'
 import { Container, Row, Col } from 'react-bootstrap'
 import './Map.css'
 
+const mapsURLPre = "https://www.google.com/maps/"
+const mapsAPISnippet = "?api=1"
+const buildDirReqLatLong = (lat, long) => {
+    return(mapsURLPre+"dir/"+mapsAPISnippet+`&destination=${lat},${long}`)
+}
+
 export default class Map extends React.Component {
     state = {
         selectedData: dataObj.busStops,
-        selectVal: "busStops"
+        selectVal: "busStops",
+        selectedLocation: null,
+        selectedLocDir: null,
     }
 
     changeHandler(ev) {
         ev.preventDefault()
         this.setState({ selectedData: dataObj[ev.target.value], selectVal:ev.target.value })
+    }
+
+    markerHandler(props, map, ev) {
+        const position = props.position;
+        this.setState({ selectedLocation: props.name, selectedLocDir: buildDirReqLatLong(position.lat, position.lng)})
+        // console.log(props)
     }
 
     render() {
@@ -28,10 +42,15 @@ export default class Map extends React.Component {
                                 <option value="mentalHealth">Mental Health Facilities</option>
                                 <option value="tanf">TANF Locations</option>
                             </select>
+                            {this.state.selectedLocation !== null ? 
+                                <div className="map-selected">
+                                    <p>{this.state.selectedLocation}</p>
+                                    <a href={this.state.selectedLocDir}>Click here for directions!</a>
+                                </div> : null }
                         </div>
                     </Col>
                     <Col xs={12} md={9} style={{ minHeight: "300px", minWidth: "300px", width: "70vw", height: "70vh", maxWidth: "1000px", maxHeight: "1000px"}}>
-                        <GoogleApiWrapper displayData={this.state.selectedData} />
+                        <GoogleApiWrapper displayData={this.state.selectedData} markerHandler={this.markerHandler.bind(this)} />
                     </Col>
                 </Row>
             </Container>

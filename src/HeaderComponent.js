@@ -20,19 +20,20 @@ export class HeaderComponent extends React.Component {
                     />
                     {' Mandela Effect'}
                     </Navbar.Brand>
-                    <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-                    <Navbar.Collapse id="responsive-navbar-nav">
+                    <Navbar.Toggle aria-controls="basic-navbar-nav" />
+                    <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">
-                        <Nav.Item as={Link} to="/">Home</Nav.Item>
-                        <Nav.Item as={Link} to="/Map">Resource Locator</Nav.Item>
-                        <Nav.Item as={Link} to="LegalResources">Legal Resources</Nav.Item>
-                        <Nav.Item as={Link} to="OrganizationResources">Organizations</Nav.Item>
-                        <Nav.Item as={Link} to="About">About Us</Nav.Item>  
+                        <Nav.Item className="NavLink" as={Link} to="/">Home</Nav.Item>
+                        <Nav.Item className="NavLink" as={Link} to="/Tutorial">Tutorial</Nav.Item>
+                        <Nav.Item className="NavLink" as={Link} to="/About">About Us</Nav.Item>
+                        <NavDropdown title="Services" className="NavLink" id="basic-nav-dropdown">
+                            <NavDropdown.Item as={Link} to="/Services/LegalResources">Legal Resources</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/Services/ResourceMap">Resource Map</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/Services/Organizations">Organizations</NavDropdown.Item>
+                            <NavDropdown.Divider />
+                            <NavDropdown.Item as={Link} to="/Services">Overview</NavDropdown.Item>
+                        </NavDropdown>  
                     </Nav>
-                    <Form className="searchForm" inline>
-                        <FormControl type="text" placeholder="Search" className="mr-sm-2" />
-                        <Button variant="outline-success">Search</Button>
-                    </Form>
                     </Navbar.Collapse>
                 </Navbar>
                 </div>
