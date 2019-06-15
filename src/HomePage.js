@@ -19,11 +19,6 @@ export class HomePage extends React.Component{
                   get the right start for a better future.
 
                 </p>
-                    <p id="paragraph1"> 
-                   With the resources we have gathered, we are dedicated in helping
-                    those who have been incarcerated
-                  get the right step in for a better future.
-                    </p>
                 </div>
                
             </div>
