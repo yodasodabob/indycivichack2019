@@ -27,6 +27,7 @@
   .BootstrapNav {
     min-height: 100%;
     font-size: calc(10px + 2vmin);
+    background-color: rgb(42,153,136);
   }
   .WebsiteTitleLogo{
     display: flex;
