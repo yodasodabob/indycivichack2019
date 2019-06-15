@@ -19,8 +19,12 @@ export class AboutPage extends React.Component{
                     about you is completely wrong.
                 </p>
                 </div>
+
             </div>
-         </div>
+            
+
+            </div>
+
         )
     }
 }
