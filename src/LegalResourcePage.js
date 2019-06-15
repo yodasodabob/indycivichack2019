@@ -1,7 +1,7 @@
 import React from 'react';
 import HeaderComponent from './HeaderComponent';
 import './LegalResourcePage.css';
-import {Launcher} from 'react-chat-window';
+// import {Launcher} from 'react-chat-window';
 
 export class LegalResourcePage extends React.Component{
     render(){

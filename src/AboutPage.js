@@ -1,14 +1,13 @@
 import React from 'react';
 import HeaderComponent from './HeaderComponent';
 import './AboutPage.css';
-import {Launcher} from 'react-chat-window';
+//import {Launcher} from 'react-chat-window';
 
 export class AboutPage extends React.Component{
     render(){
         return(
         <div className="AboutPageWrapper">
             <div className="AboutBody">
-
             <div id= "para1">
                 <h1>We're Mandela Effect</h1>
                 <p> 
