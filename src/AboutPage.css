@@ -1,4 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Roboto&display=swap');
+
 .AboutPageWrapper{
     min-height: 100%;
     height: 100vh;
+}
+
+#para1 {
+    font-family: 'Roboto', sans-serif;
+    
 }
