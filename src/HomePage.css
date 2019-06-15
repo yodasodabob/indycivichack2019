@@ -1,10 +1,19 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat|Roboto&display=swap');
+
+
 .homeBody {
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
     color: #d6b500;
-    height: 80vh;
+    height: 100vh;
     
     background-color: #2A9988;
-    width: 50%
+    width: 50%;
+}
+.introPara{
+    
+}
+.homePageWrapper{
+    background-color: #2A9988;
+    
 }

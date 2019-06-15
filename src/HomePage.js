@@ -8,6 +8,7 @@ export class HomePage extends React.Component{
         return(
             <div className="homePageWrapper">
             <div className="homeBody">
+                <div className="introPara">
                 <h1>We're here to help you grow</h1>
                 <p> Blah blah boo boo tee hee yada yada
                 Blah blah boo boo tee hee yada yada
@@ -17,6 +18,7 @@ export class HomePage extends React.Component{
                 Blah blah boo boo tee hee yada yada
 
                 </p>
+                </div>
             </div>
             </div>
         )
