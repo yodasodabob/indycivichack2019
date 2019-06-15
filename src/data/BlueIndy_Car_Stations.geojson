@@ -1,0 +1,1413 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 108,
+                "LOCATION": "Meridian and Merrill",
+                "ADDRESS": "605 S Meridian St",
+                "CAPACITY": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15844215724131,
+                    39.758668252646736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 109,
+                "LOCATION": "Virginia and Buchanan",
+                "ADDRESS": "1010 Virginia Ave",
+                "CAPACITY": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.14158059294341,
+                    39.75382752956869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 110,
+                "LOCATION": "East and Sanders",
+                "ADDRESS": "503 Sanders St",
+                "CAPACITY": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.1492068471286,
+                    39.75050956618186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 111,
+                "LOCATION": "Lincolnd and East",
+                "ADDRESS": "447 Lincoln St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.14972926435736,
+                    39.745543145974345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 112,
+                "LOCATION": "Southern and Shelby",
+                "ADDRESS": "1107 Cruft St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.13991046310589,
+                    39.73013068650512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 113,
+                "LOCATION": "49th and Penn",
+                "ADDRESS": "112 E 49th St",
+                "CAPACITY": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15425116532403,
+                    39.84270616770381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 26,
+                "LOCATION": "Convention Center 1",
+                "ADDRESS": "228 W Maryland St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.16216700522355,
+                    39.76580342694159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 27,
+                "LOCATION": "City Market",
+                "ADDRESS": "121 N. Delaware St.",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15430147799489,
+                    39.76882004931365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 28,
+                "LOCATION": "Indianapolis International Airport",
+                "ADDRESS": "7801 Col H Weir Cook Memorial Dr",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.29915550211967,
+                    39.71388820248796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 29,
+                "LOCATION": "Washington and Meridian",
+                "ADDRESS": "2 E Washington St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15757523973582,
+                    39.76710475214039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 30,
+                "LOCATION": "IUPUI - Student Center",
+                "ADDRESS": "333 University Blvd",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.1761214933644,
+                    39.773322181634256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 31,
+                "LOCATION": "New Jersey and New York",
+                "ADDRESS": "375 E New York St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15103481071205,
+                    39.77110331375385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 32,
+                "LOCATION": "Broad Ripple",
+                "ADDRESS": "622 N. College Ave.",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.14611101298816,
+                    39.86920052253107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 33,
+                "LOCATION": "Fountain Square",
+                "ADDRESS": "1107 E Morris St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.13944015513147,
+                    39.75164250267086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 34,
+                "LOCATION": "Statehouse East",
+                "ADDRESS": "307 W Washington St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.16395346932089,
+                    39.7671136987872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 35,
+                "LOCATION": "Ivy Tech",
+                "ADDRESS": "2555 N Capitol Ave",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15829405221248,
+                    39.80431083730588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 36,
+                "LOCATION": "Irvington",
+                "ADDRESS": "27 S Audubon Rd",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.07034385246855,
+                    39.7701363010238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 37,
+                "LOCATION": "SoBro",
+                "ADDRESS": "5351 N. College Ave.",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.14574441870901,
+                    39.85040807343303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 38,
+                "LOCATION": "Butler University I",
+                "ADDRESS": "635 W. Hampton Dr.",
+                "CAPACITY": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.16972112442942,
+                    39.836603496768745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 39,
+                "LOCATION": "University of Indianapolis",
+                "ADDRESS": "4014 S State Ave",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.13012469811964,
+                    39.707977499891136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 40,
+                "LOCATION": "Convention Center & Victory Field",
+                "ADDRESS": "460 W. Maryland St.",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.16672138954605,
+                    39.765838864652174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 41,
+                "LOCATION": "Broad Ripple II",
+                "ADDRESS": "6140 Compton St",
+                "CAPACITY": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.13897511061793,
+                    39.866885164145124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 42,
+                "LOCATION": "Broad Ripple III",
+                "ADDRESS": "945 E Westfield Blvd",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.14209641640545,
+                    39.870646927313565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 43,
+                "LOCATION": "56th and Illinois",
+                "ADDRESS": "110 W 56th St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15993036242327,
+                    39.854130559461495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 44,
+                "LOCATION": "Sobro II",
+                "ADDRESS": "685 E 52nd St",
+                "CAPACITY": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.1461071005441,
+                    39.84690164730731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 45,
+                "LOCATION": "SoBro III",
+                "ADDRESS": "4937 N College Ave",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.14564572006428,
+                    39.84368170530423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 46,
+                "LOCATION": "Butler University II",
+                "ADDRESS": "5044 Boulevard Pl",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.16431703452068,
+                    39.844673409095584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 47,
+                "LOCATION": "Butler University III",
+                "ADDRESS": "510 W 49th St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.16834856240632,
+                    39.84281350365653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 48,
+                "LOCATION": "Butler University IV",
+                "ADDRESS": "829 W Hampton Dr",
+                "CAPACITY": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.17510108852602,
+                    39.83637052825623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 49,
+                "LOCATION": "45th and Binford",
+                "ADDRESS": "2609 E 45th St",
+                "CAPACITY": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.11718014993555,
+                    39.83834704039322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 50,
+                "LOCATION": "Tarkington Park",
+                "ADDRESS": "91 W 39th St",
+                "CAPACITY": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15887122658442,
+                    39.82630659333622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 51,
+                "LOCATION": "36th and Meridian",
+                "ADDRESS": "3616 N Meridian St",
+                "CAPACITY": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15672340655829,
+                    39.8216028692786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 52,
+                "LOCATION": "Lafayette Square",
+                "ADDRESS": "3812 Bennett Dr",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.26024968171359,
+                    39.824556821105006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 53,
+                "LOCATION": "North Speedway",
+                "ADDRESS": "3015 N Beeler Ave",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.25165960609657,
+                    39.809622943482324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 54,
+                "LOCATION": "Marian University I",
+                "ADDRESS": "3200 Cold Spring Rd",
+                "CAPACITY": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.2019250668505,
+                    39.81371016367711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 55,
+                "LOCATION": "Marian University",
+                "ADDRESS": "3240 Cold Spring Rd",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.205277944056,
+                    39.81343338482323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 56,
+                "LOCATION": "33rd and Illinois",
+                "ADDRESS": "3225 N Illinois St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15902183568919,
+                    39.81474714962891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 57,
+                "LOCATION": "Mapleton - Fall Creek",
+                "ADDRESS": "493 E 34th St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.1500826690332,
+                    39.81754275787197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 58,
+                "LOCATION": "Fall Creek Place",
+                "ADDRESS": "2472 N Delaware St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15315461768806,
+                    39.80274472745351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 59,
+                "LOCATION": "MLK St",
+                "ADDRESS": "2442 Dr. Martin Luther King Jr St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.170346707148,
+                    39.80209675368474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 60,
+                "LOCATION": "Herron Morton Pl",
+                "ADDRESS": "151 E 22nd St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15424314056936,
+                    39.797309236333334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 61,
+                "LOCATION": "21st and Catherwood",
+                "ADDRESS": " ",
+                "CAPACITY": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.06117685679723,
+                    39.79662470592694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 62,
+                "LOCATION": "21st and Shadeland",
+                "ADDRESS": "7190 E 21st St",
+                "CAPACITY": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.04194258961171,
+                    39.79659370794066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 63,
+                "LOCATION": "14th and Arlington",
+                "ADDRESS": "5921 E 12th St",
+                "CAPACITY": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.06631459515938,
+                    39.78434181530471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 64,
+                "LOCATION": "Washington and Linwood",
+                "ADDRESS": "10 S Linwood Ave",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.0926697709198,
+                    39.7694084822253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 65,
+                "LOCATION": "10th and Gray",
+                "ADDRESS": "976 N Gray St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.11192067732163,
+                    39.78110755206075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 66,
+                "LOCATION": "Boner Center",
+                "ADDRESS": "2212 E 10th St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.12294951481353,
+                    39.781363082117174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 67,
+                "LOCATION": "Washington and Rural",
+                "ADDRESS": "22 N Rural St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.11650917330724,
+                    39.769325470423766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 68,
+                "LOCATION": "New York and State",
+                "ADDRESS": "342 N State Ave",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.13069030910935,
+                    39.77160449599512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 69,
+                "LOCATION": "Highland Park",
+                "ADDRESS": "1175 E Vermont St",
+                "CAPACITY": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.137561181119,
+                    39.77228978000566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 70,
+                "LOCATION": "Angie's List",
+                "ADDRESS": "1021 E Market St",
+                "CAPACITY": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.14042897627368,
+                    39.7680406788217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 71,
+                "LOCATION": "16th and Monon Trail",
+                "ADDRESS": "1110 E 16th St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.13911597300462,
+                    39.78872335536403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 72,
+                "LOCATION": "16th and Park",
+                "ADDRESS": "1611 N Park Ave",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.14763876486647,
+                    39.78867405506439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 73,
+                "LOCATION": "16th and Penn",
+                "ADDRESS": "1572 N Pennsylvania St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15587437562289,
+                    39.787832771002876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 74,
+                "LOCATION": "16th and Senate",
+                "ADDRESS": "1513 N Senate Ave",
+                "CAPACITY": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.16296560521845,
+                    39.787464228312935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 75,
+                "LOCATION": "18th and Capitol",
+                "ADDRESS": "1813 N Capitol Ave",
+                "CAPACITY": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.16139876642008,
+                    39.79123994265132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 76,
+                "LOCATION": "13th and Alabama",
+                "ADDRESS": "313 E 13th St",
+                "CAPACITY": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15169512910977,
+                    39.784455173527505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 77,
+                "LOCATION": "10th and University",
+                "ADDRESS": "1048 Brooks St",
+                "CAPACITY": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.17352463014572,
+                    39.78153564519279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 78,
+                "LOCATION": "Indiana and Milburn",
+                "ADDRESS": "1228 Milburn St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.1790697745707,
+                    39.784211481167226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 79,
+                "LOCATION": "Haughville",
+                "ADDRESS": "513 N Holmes Ave",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.2051395039035,
+                    39.77493669656213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 80,
+                "LOCATION": "Elder and Washington",
+                "ADDRESS": "8 S Elder Ave",
+                "CAPACITY": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.19452757526145,
+                    39.76624817198166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 81,
+                "LOCATION": "Central State",
+                "ADDRESS": "31 Central Greens Blvd",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.21016444345639,
+                    39.76582481975505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 82,
+                "LOCATION": "Chapelwood and 10th St",
+                "ADDRESS": "932 Chapelwood Blvd",
+                "CAPACITY": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.29383036316577,
+                    39.778123196866744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 83,
+                "LOCATION": "Kappes and Morris",
+                "ADDRESS": "1904 W Morris St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.19471867692545,
+                    39.751001986783436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 84,
+                "LOCATION": "Ransom Place",
+                "ADDRESS": "431 W 9th St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.16639978345157,
+                    39.779467689257885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 85,
+                "LOCATION": "11th and Senate",
+                "ADDRESS": "270 W 11th St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.16266257068091,
+                    39.78228380961899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 86,
+                "LOCATION": "10th and Scioto",
+                "ADDRESS": "997 N Scioto St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15663955690238,
+                    39.78069476714582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 87,
+                "LOCATION": "9th and Meridian",
+                "ADDRESS": "922 N Meridian St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15770432903088,
+                    39.779456787095604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 88,
+                "LOCATION": "St Clair and Alabama",
+                "ADDRESS": "772 N Alabama St",
+                "CAPACITY": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15232364162138,
+                    39.77769318977994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 89,
+                "LOCATION": "East and Walnut",
+                "ADDRESS": "505 E Walnut St",
+                "CAPACITY": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.14830158429999,
+                    39.77651913352043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 90,
+                "LOCATION": "College and North",
+                "ADDRESS": "609 N College Ave",
+                "CAPACITY": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.1452525560696,
+                    39.77544200596806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 91,
+                "LOCATION": "Mass and 9th",
+                "ADDRESS": "891 Massachusetts Ave",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.14275521023941,
+                    39.77926478868338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 92,
+                "LOCATION": "Delaware and New York",
+                "ADDRESS": "313 N Delaware St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15419280518849,
+                    39.77167435149039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 93,
+                "LOCATION": "Penn and Ohio",
+                "ADDRESS": "103 E Ohio St",
+                "CAPACITY": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15565582207401,
+                    39.769782193121515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 94,
+                "LOCATION": "Ohio and Illinois",
+                "ADDRESS": "180 N Illinois St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15991838334098,
+                    39.769691618060634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 95,
+                "LOCATION": "Meridian and Vermont",
+                "ADDRESS": "18 W Vermont St",
+                "CAPACITY": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15845323467818,
+                    39.77276717241978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 96,
+                "LOCATION": "Vermont and Capitol",
+                "ADDRESS": "176 W Vermont St",
+                "CAPACITY": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.16114080822383,
+                    39.77283461488337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 97,
+                "LOCATION": "Senate and Michigan",
+                "ADDRESS": "479 N Senate Ave",
+                "CAPACITY": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.16320797981531,
+                    39.773979863790665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 98,
+                "LOCATION": "New York and West",
+                "ADDRESS": "455 W New York St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.16591661732001,
+                    39.77143505015532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 99,
+                "LOCATION": "Washington and Illinois",
+                "ADDRESS": "107 W Washington St",
+                "CAPACITY": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.16058109833651,
+                    39.76706469732075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 100,
+                "LOCATION": "East and Market",
+                "ADDRESS": "471 E Market St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.14909687778933,
+                    39.767997791728476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 101,
+                "LOCATION": "City County Building",
+                "ADDRESS": "11 N Delaware St",
+                "CAPACITY": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15435907056828,
+                    39.76736798648106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 102,
+                "LOCATION": "Georgia and East",
+                "ADDRESS": "175 S East St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.1490510717694,
+                    39.764291473206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 103,
+                "LOCATION": "Penn and Washington",
+                "ADDRESS": "15 S Pennsylvania St",
+                "CAPACITY": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15621486860255,
+                    39.76651000448452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 104,
+                "LOCATION": "Convention Center II",
+                "ADDRESS": "223 S Capitol Ave",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.16177639575099,
+                    39.763851271882075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 105,
+                "LOCATION": "Meridian and Georgia St",
+                "ADDRESS": "206 S Meridian St",
+                "CAPACITY": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.1583054191706,
+                    39.76397181651698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 106,
+                "LOCATION": "Alabama and South",
+                "ADDRESS": "South and Alabama",
+                "CAPACITY": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15238545826608,
+                    39.76139814398486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 107,
+                "LOCATION": "Virginia and Merrill",
+                "ADDRESS": "550 Virginia Ave",
+                "CAPACITY": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.14642163485266,
+                    39.7585454472897
+                ]
+            }
+        }
+    ]
+}
