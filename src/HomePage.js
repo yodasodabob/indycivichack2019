@@ -9,13 +9,12 @@ export class HomePage extends React.Component{
             <div className="homePageWrapper">
             <div className="homeBody">
                 <div className="introPara">
-                <h1>We're here to help you grow</h1>
-                <p> Blah blah boo boo tee hee yada yada
-                Blah blah boo boo tee hee yada yada
-                Blah blah boo boo tee hee yada yada
-                Blah blah boo boo tee hee yada yada
-                Blah blah boo boo tee hee yada yada
-                Blah blah boo boo tee hee yada yada
+                <h1>The path to re-entry shouldn't be hard; we're here
+                  to make it easier.</h1>
+                <p> 
+                   With the resources we have gathered, we
+                  are dedicated in helping those who have been incarcerated
+                  get the right step in for a better future.
 
                 </p>
                 </div>
