@@ -1,7 +1,7 @@
 import React from 'react';
 import HeaderComponent from './HeaderComponent';
 import './App.css';
-import {Launcher} from 'react-chat-window';
+//import {Launcher} from 'react-chat-window';
 import { Navbar, Nav, NavDropdown, Form, FormControl, Button } from 'react-bootstrap';
 // import GoogleApiWrapper from './MapsContainer';
 import Map from './Map'
