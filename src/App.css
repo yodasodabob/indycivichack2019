@@ -16,7 +16,9 @@
   min-height: 80%;
   height: 80vh;
 }
-
+.SwitchDiv{
+  min-height: 100%;
+}
 
 
 /* @keyframes fadein {

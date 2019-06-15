@@ -9,7 +9,7 @@
     font-size: calc(10px + 2vmin);
     color: white;
   }
-  
+
 .NavigationBar {
     background-color: rgb(42,153,136);
     min-width: 100vw;
@@ -36,8 +36,25 @@
     font-size: calc(10px + 2vmin);
   }
   .pictureLogo{
-    padding-right: 4%;
+    padding-right: 2%;
+  }
+  .NavLink{
+      display: flex;
+      align-items: center;
+      padding: 0% 1%;
+      border: 2px solid black;
+      border-top-style: none;
+      border-bottom-style: none;
+      border-right-style: none; 
   }
   .searchForm{
     height: 100%;
+  }
+  #responsive-navbar-nav{
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-end;
+  }
+  .mr-auto{
+      margin:0px;
   }

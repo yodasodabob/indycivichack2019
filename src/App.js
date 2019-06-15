@@ -6,9 +6,13 @@ import { Navbar, Nav, NavDropdown, Form, FormControl, Button } from 'react-boots
 // import GoogleApiWrapper from './MapsContainer';
 import Map from './Map'
 import { Route, Switch } from 'react-router-dom';
-
+import AboutPage from './AboutPage';
+import TutorialPage from './TutorialPage';
 import GoogleApiWrapper from './MapsContainer';
 import HomePage from './HomePage';
+import LegalResourcePage from './LegalResourcePage';
+import OrganizationsPage from './OrganizationsPage';
+import ServicesPage from './ServicesPage';
 
 function App() {
   return (
@@ -16,7 +20,12 @@ function App() {
       <div><HeaderComponent></HeaderComponent></div>
       <div className="SwitchDiv" style={{ marginTop: "10px"}}>
         <Switch >
-          <Route path="/map" render={() => <div><Map /></div>} />
+          <Route path="/Tutorial" render={() => <div><TutorialPage /></div>} />
+          <Route path="/About" render={() => <div><AboutPage /></div>} />
+          <Route path="/Services/ResourceMap" render={() => <div><Map /></div>} />
+          <Route path="/Services/LegalResources" render={() => <div><LegalResourcePage /></div>} />
+          <Route path="/Services/Organizations" render={() => <div><OrganizationsPage /></div>} />
+          <Route path="/Services" render={() => <div><ServicesPage /></div>} />
           <Route path='/' render={() =><div>
             <HomePage></HomePage>
           </div>} />
