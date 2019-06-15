@@ -11,7 +11,7 @@
 }
 .introPara{
 
-    padding-top: 300px;
+    padding-top: .2rem;
     text-align: center; 
     
 
@@ -38,6 +38,6 @@
     align-items: center;
 }
 .pictureLogoHome{
-    width: 50%;
-    height: 50%;
+    width: 60%;
+    height: 60%;
 }

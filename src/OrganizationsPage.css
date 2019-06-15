@@ -1,2 +1,9 @@
 h3 {text-align: left;}
-h5 {text-align: left; font-family: Verdana, Geneva, Tahoma, sans-serif}
+h5 {text-align: left; font-family: 'Josefin Sans', sans-serif;}
+
+.OrganizationsBody{
+    background-color: #2A9988;
+    font-family: 'Josefin Sans', sans-serif;
+    padding-left: 4vw;
+    padding-right: 4vw;
+}

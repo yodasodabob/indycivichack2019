@@ -8,8 +8,7 @@ export class OrganizationsPage extends React.Component{
         return(
             <div className="OrganizationsPageWrapper">
             <div className="OrganizationsBody">
-                <h1>I'm the organizations page</h1>
-
+                <h1>Organizations that help with formerly incarcerated people</h1>
                 <h5><a href ="https://exoffenders.net/reentry-programs-assistance/indiana/">Exoffenders</a>
                 <p>Indiana Reentry Programs and Assistance</p></h5>
 
@@ -37,10 +36,11 @@ export class OrganizationsPage extends React.Component{
                     youth to set new, positive directions for their lives. Our services include halfway 
                     houses and work-release programs, day reporting, diversion and pre-trial services, 
                     residential treatment, family supports, and dispute resolution and mediation services.</p></h5>
+                <br />
                 <h1>Need Help Getting Back on Your Feet?</h1><br />
 
                 <h3>Re-Entry Programs</h3>
-                <br / >
+                <br />
                 <h5><a href ="https://lionheart.org/prison/state-by-state-listing-of-re-entry-programs-for-prisoners/" >LionHeart</a></h5>
                 <p>A list of reentry programs below, listed by state, to help people connect with the services or contacts they might need to help them with re-entry into society. </p>
                 <br /> 
@@ -49,7 +49,7 @@ export class OrganizationsPage extends React.Component{
                 <p>The Re-Entry Division, utilizing evidence-based practices, promotes the assessment of each offender's criminogenic needs and encourages a culture of accountability and collaboration.
                     <br /> We value targeted programming to establish a comprehensive Re-Entry model that advocates for a skilled and ready workforce.
                 </p>
-                <br / >
+                <br />
 
                 <h5><a href = "https://www.nami.org/Find-Support/Living-with-a-Mental-Health-Condition/Reentry-After-a-Period-of-Incarceration">National Alliance of Mental Illness</a></h5>  
                 <p>Re-entry after a period of incarceration</p>  

@@ -2,7 +2,7 @@ import React from 'react';
 import HeaderComponent from './HeaderComponent';
 import './HomePage.css';
 //import {Launcher} from 'react-chat-window';
-import logoHome from './seedling-sprout-image-cropped.jpg';
+import logoHome from './Logo1.png';
 
 export class HomePage extends React.Component{
     render(){
@@ -10,7 +10,7 @@ export class HomePage extends React.Component{
             <div className="homePageWrapper">
             <div className="homeBody">
 
-                <img id='logo-img' src="./Logo1.png" alt="ME_logo"></img>
+                <img id='logo-img' src={logoHome} alt="ME_logo"></img>
                 <div className="introPara">
                     <h1 id="header1">The path to re-entry shouldn't <br></br> be hard; we're here
                   to make it easier.</h1>
