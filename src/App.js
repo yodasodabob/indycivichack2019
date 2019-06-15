@@ -2,7 +2,8 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import GoogleApiWrapper from './MapsContainer';
-import {Launcher} from 'react-chat-window'
+import { Launcher } from 'react-chat-window';
+
 
 function App() {
   return (
@@ -24,7 +25,6 @@ function App() {
         <GoogleApiWrapper></GoogleApiWrapper>
       </div>
       <body className="App-body">
-
       <Launcher
         agentProfile={{
           teamName: 'react-chat-window',
