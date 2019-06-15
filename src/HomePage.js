@@ -1,7 +1,7 @@
 import React from 'react';
 import HeaderComponent from './HeaderComponent';
 import './HomePage.css';
-import {Launcher} from 'react-chat-window';
+// import {Launcher} from 'react-chat-window';
 
 export class HomePage extends React.Component{
     render(){

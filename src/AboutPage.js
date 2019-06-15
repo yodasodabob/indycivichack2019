@@ -1,7 +1,7 @@
 import React from 'react';
 import HeaderComponent from './HeaderComponent';
 import './AboutPage.css';
-import {Launcher} from 'react-chat-window';
+//import {Launcher} from 'react-chat-window';
 
 export class AboutPage extends React.Component{
     render(){
