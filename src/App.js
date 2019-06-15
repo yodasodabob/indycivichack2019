@@ -14,8 +14,8 @@ function App() {
   return (
     <div className="App">
       <div><HeaderComponent></HeaderComponent></div>
-      <div className="SwitchDiv">
-        <Switch>
+      <div className="SwitchDiv" style={{ marginTop: "10px"}}>
+        <Switch >
           <Route path="/map" render={() => <div><Map /></div>} />
           <Route path='/' render={() =><div>
             <HomePage></HomePage>
@@ -25,9 +25,9 @@ function App() {
       {/* <div>
         <Map />
       </div> */}
-      <body className="App-body">
+      {/* <body className="App-body">
 
-      {/* <Launcher
+      <Launcher
         agentProfile={{
           teamName: 'react-chat-window',
           imageUrl: 'https://a.slack-edge.com/66f9/img/avatars-teams/ava_0001-34.png'
@@ -35,9 +35,9 @@ function App() {
         // onMessageWasSent={this._onMessageWasSent.bind(this)} Add messages
         // messageList={this.state.messageList}
         showEmoji
-      /> */}
+      />
 
-      </body>
+      </body> */}
     </div>
   );
 }
