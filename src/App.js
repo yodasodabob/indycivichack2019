@@ -16,15 +16,15 @@ function App() {
       <div><HeaderComponent></HeaderComponent></div>
       <div className="SwitchDiv">
         <Switch>
-          <Route path="/map" render={() => <div>This is a thing!</div>} />
+          <Route path="/map" render={() => <div><Map /></div>} />
           <Route path='/' render={() =><div>
             <HomePage></HomePage>
           </div>} />
         </Switch>
       </div>
-      <div>
+      {/* <div>
         <Map />
-      </div>
+      </div> */}
       <body className="App-body">
 
       {/* <Launcher

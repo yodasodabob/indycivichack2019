@@ -17,17 +17,23 @@ export default class Map extends React.Component {
 
     render() {
         return(
-            <Container>
-                <div className="map-sidebar">
-                    <select dataSelection onChange={this.changeHandler.bind(this)} value={this.state.selectVal}>
-                        <option value="busStops" defaultValue>Bus Stops</option>
-                        <option value="blueIndy">Blue Indy Locations</option>
-                        <option value="snapLocations">SNAP Locations</option>
-                        <option value="mentalHealth">Mental Health Facilities</option>
-                        <option value="tanf">TANF Locations</option>
-                    </select>
-                </div>
-                <GoogleApiWrapper displayData={this.state.selectedData} />
+            <Container fluid>
+                <Row>
+                    <Col xs={12} md={3}>
+                        <div className="map-sidebar">
+                            <select dataSelection onChange={this.changeHandler.bind(this)} value={this.state.selectVal}>
+                                <option value="busStops" defaultValue>Bus Stops</option>
+                                <option value="blueIndy">Blue Indy Locations</option>
+                                <option value="snapLocations">SNAP Locations</option>
+                                <option value="mentalHealth">Mental Health Facilities</option>
+                                <option value="tanf">TANF Locations</option>
+                            </select>
+                        </div>
+                    </Col>
+                    <Col xs={12} md={9} style={{ minHeight: "300px", minWidth: "300px", width: "70vw", height: "70vh", maxWidth: "1000px", maxHeight: "1000px"}}>
+                        <GoogleApiWrapper displayData={this.state.selectedData} />
+                    </Col>
+                </Row>
             </Container>
         )
     }
