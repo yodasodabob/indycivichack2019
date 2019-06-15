@@ -10,6 +10,7 @@ export class AboutPage extends React.Component{
             <div className="AboutBody">
                 <h1>I'm the about page</h1>
             </div>
+            
             </div>
         )
     }

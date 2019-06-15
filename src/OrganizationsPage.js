@@ -8,7 +8,18 @@ export class OrganizationsPage extends React.Component{
         return(
             <div className="OrganizationsPageWrapper">
             <div className="OrganizationsBody">
-                <h1>I'm the organizations page</h1>
+                <h1>Need Help Getting Back on Your Feet?</h1><br />
+
+                <h3>Re-Entry Programs</h3>
+                <br / >
+                <h5><a href ="https://lionheart.org/prison/state-by-state-listing-of-re-entry-programs-for-prisoners/" >LionHeart</a></h5>
+                <p>A list of reentry programs below, listed by state, to help people connect with the services or contacts they might need to help them with re-entry into society. </p>
+                <br /> 
+
+                <h5><a href = "https://www.in.gov/idoc/2335.htm">Indiana Department of Correction</a></h5>
+                <p>The Re-Entry Division, utilizing evidence-based practices, promotes the assessment of each offender's criminogenic needs and encourages a culture of accountability and collaboration.
+                    <br /> We value targeted programming to establish a comprehensive Re-Entry model that advocates for a skilled and ready workforce.
+                </p>
             </div>
             </div>
         )

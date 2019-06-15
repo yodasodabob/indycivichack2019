@@ -27,7 +27,7 @@ function App() {
           <Route path="/Services/LegalResources" render={() => <div className="LegalSwitchWrapper"><LegalResourcePage /></div>} />
           <Route path="/Services/Organizations" render={() => <div className="OrganizationSwitchWrapper"><OrganizationsPage /></div>} />
           <Route path="/Services" render={() => <div className="ServicesSwitchWrapper"><ServicesPage /></div>} />
-          <Route path='/' render={() =><div>
+          <Route path='/' render={() =><div className="HomeSwitchWrapper">
             <HomePage></HomePage>
           </div>} />
         </Switch>

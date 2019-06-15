@@ -2,18 +2,22 @@
 
 
 .homeBody {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     font-weight: bold;
     color: #d6b500;
     height: 100vh;
-    
     background-color: #2A9988;
     width: 50%;
 }
 .introPara{
+
     
+
 }
 .homePageWrapper{
     background-color: #2A9988;
-    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }

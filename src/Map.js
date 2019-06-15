@@ -26,7 +26,7 @@ export default class Map extends React.Component {
             <Container fluid>
                 <Row>
                     <Col xs={12} md={2}>
-                        <div className="map-sidebar" style={{ margin: "0 auto"}}>
+                        <div className="map-sidebar">
                             <select dataSelection onChange={this.changeHandler.bind(this)} value={this.state.selectVal}>
                                 <option value="busStops" defaultValue>Bus Stops</option>
                                 <option value="blueIndy">Blue Indy Locations</option>
