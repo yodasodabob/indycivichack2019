@@ -4,11 +4,7 @@ import dataObj from './Data'
 import { Container, Row, Col } from 'react-bootstrap'
 import './Map.css'
 
-const mapsURLPre = "https://www.google.com/maps/"
-const mapsAPISnippet = "?api=1"
-const buildDirReqLatLong = (lat, long) => {
-    return(mapsURLPre+"dir/"+mapsAPISnippet+`&destination=${lat},${long}`)
-}
+
 
 export default class Map extends React.Component {
     state = {
@@ -23,18 +19,14 @@ export default class Map extends React.Component {
         this.setState({ selectedData: dataObj[ev.target.value], selectVal:ev.target.value })
     }
 
-    markerHandler(props, map, ev) {
-        const position = props.position;
-        this.setState({ selectedLocation: props.name, selectedLocDir: buildDirReqLatLong(position.lat, position.lng)})
-        // console.log(props)
-    }
+    
 
     render() {
         return(
             <Container fluid>
                 <Row>
-                    <Col xs={12} md={3}>
-                        <div className="map-sidebar">
+                    <Col xs={12} md={2}>
+                        <div className="map-sidebar" style={{ margin: "0 auto"}}>
                             <select dataSelection onChange={this.changeHandler.bind(this)} value={this.state.selectVal}>
                                 <option value="busStops" defaultValue>Bus Stops</option>
                                 <option value="blueIndy">Blue Indy Locations</option>
@@ -49,8 +41,11 @@ export default class Map extends React.Component {
                                 </div> : null }
                         </div>
                     </Col>
-                    <Col xs={12} md={9} style={{ minHeight: "300px", minWidth: "300px", width: "70vw", height: "70vh", maxWidth: "1000px", maxHeight: "1000px"}}>
-                        <GoogleApiWrapper displayData={this.state.selectedData} markerHandler={this.markerHandler.bind(this)} />
+                    <Col xs={12} md={9} style={{ minHeight: "70vh"}}>
+                        <div style={{ width: "100%", height: "100%",}}>
+                            <GoogleApiWrapper displayData={this.state.selectedData} />
+
+                        </div>
                     </Col>
                 </Row>
             </Container>
