@@ -7,18 +7,6 @@
   max-height: 900px
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 12%;
-  /* height: 12vh; */
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
 .App-link {
   color: #61dafb;
 }
@@ -29,37 +17,7 @@
   height: 80vh;
 }
 
-.NavigationBar {
-  background-color: rgb(42,153,136);
-  min-width: 100vw;
-  min-height: 100%;
-  /* padding: 50px;
-  margin: 20px; */
-  /* font-size: 50px; */
-  /* background-attachment: fixed;
-  background-position: center; */
 
-  /* -webkit-animation: fadein 2s;
-  -moz-animation: fadein 2s; */
-}
-
-.BootstrapNav {
-  min-height: 100%;
-  font-size: calc(10px + 2vmin);
-}
-.WebsiteTitleLogo{
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-start;
-  align-items: center;
-  font-size: calc(10px + 2vmin);
-}
-.pictureLogo{
-  padding-right: 4%;
-}
-.searchForm{
-  height: 100%;
-}
 
 /* @keyframes fadein {
   from {opacity: 0;}
