@@ -8,7 +8,15 @@ export class HomePage extends React.Component{
         return(
             <div className="homePageWrapper">
             <div className="homeBody">
-                <h1>We're here to help</h1>
+                <h1>We're here to help you grow</h1>
+                <p> Blah blah boo boo tee hee yada yada
+                Blah blah boo boo tee hee yada yada
+                Blah blah boo boo tee hee yada yada
+                Blah blah boo boo tee hee yada yada
+                Blah blah boo boo tee hee yada yada
+                Blah blah boo boo tee hee yada yada
+
+                </p>
             </div>
             </div>
         )
