@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="WebsiteTitle">
-          <text>Title</text>
+          <text>Mandela Effect</text>
         </div>
         <div className="NavigationBar">
           <text>Navigation Bar</text>  
