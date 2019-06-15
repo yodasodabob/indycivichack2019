@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "merged",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "Provider Name": "Evansville Treatment Center", "Address": "1510 W. Franklin St Suite A", "City": "Evansville", "State": "IN", "ZipCode": "47710", "Longitude": -87.58589, "Latitude": 37.98038 }, "geometry": { "type": "Point", "coordinates": [ -87.58589, 37.98038 ] } },
+{ "type": "Feature", "properties": { "Provider Name": "Edgewater Systems for Balanced Living", "Address": "1110 West 5th Avenue Turning Point Building", "City": "Gary", "State": "IN", "ZipCode": "46402", "Longitude": -87.35114, "Latitude": 41.602013 }, "geometry": { "type": "Point", "coordinates": [ -87.35114, 41.602013 ] } },
+{ "type": "Feature", "properties": { "Provider Name": "Northwest Indiana Treatment Center, Inc.", "Address": "8500 Broadway Suite H", "City": "Merrillville", "State": "IN", "ZipCode": "46410", "Longitude": -87.33599, "Latitude": 41.46334 }, "geometry": { "type": "Point", "coordinates": [ -87.33599, 41.46334 ] } },
+{ "type": "Feature", "properties": { "Provider Name": "Semoran Treatment Center", "Address": "8060 Melton Road", "City": "Gary", "State": "IN", "ZipCode": "46403", "Longitude": -87.24211, "Latitude": 41.595257 }, "geometry": { "type": "Point", "coordinates": [ -87.24211, 41.595257 ] } },
+{ "type": "Feature", "properties": { "Provider Name": "Porter-Starke Services d\/b\/a The Recovery Center", "Address": "701 Wall Street", "City": "Valparaiso", "State": "IN", "ZipCode": "46383", "Longitude": -87.05273, "Latitude": 41.489113 }, "geometry": { "type": "Point", "coordinates": [ -87.05273, 41.489113 ] } },
+{ "type": "Feature", "properties": { "Provider Name": "Victory Clinical Services - South Bend", "Address": "4005 Western Avenue", "City": "South Bend", "State": "IN", "ZipCode": "46619", "Longitude": -86.30346, "Latitude": 41.671898 }, "geometry": { "type": "Point", "coordinates": [ -86.30346, 41.671898 ] } },
+{ "type": "Feature", "properties": { "Provider Name": "Health & Hosp. Corp. of Marion Co., Indiana", "Address": "832 North Meridian Street", "City": "Indianapolis", "State": "IN", "ZipCode": "46204", "Longitude": -86.15766, "Latitude": 39.77839 }, "geometry": { "type": "Point", "coordinates": [ -86.15766, 39.77839 ] } },
+{ "type": "Feature", "properties": { "Provider Name": "Indianapolis Treatment Center Inc", "Address": "2626 East 46th Street", "City": "Indianapolis", "State": "IN", "ZipCode": "46205", "Longitude": -86.1196, "Latitude": 39.840256 }, "geometry": { "type": "Point", "coordinates": [ -86.1196, 39.840256 ] } },
+{ "type": "Feature", "properties": { "Provider Name": "Southern Indiana Treatment Center, LLC", "Address": "7509 Charlestown Pike", "City": "Charlestown", "State": "IN", "ZipCode": "47111", "Longitude": -85.68992, "Latitude": 38.38283 }, "geometry": { "type": "Point", "coordinates": [ -85.68992, 38.38283 ] } },
+{ "type": "Feature", "properties": { "Provider Name": "Premier Care of Indiana", "Address": "317 N Norton St", "City": "Marion", "State": "IN", "ZipCode": "46952", "Longitude": -85.68885, "Latitude": 40.563007 }, "geometry": { "type": "Point", "coordinates": [ -85.68885, 40.563007 ] } },
+{ "type": "Feature", "properties": { "Provider Name": "Center for Behavioral Health ? Indiana", "Address": "1414 Wells Street", "City": "Fort Wayne", "State": "IN", "ZipCode": "46808", "Longitude": -85.14561, "Latitude": 41.0869 }, "geometry": { "type": "Point", "coordinates": [ -85.14561, 41.0869 ] } },
+{ "type": "Feature", "properties": { "Provider Name": "East Indiana Treatment Clinic", "Address": "816 Rudolph Way", "City": "Lawrenceburg", "State": "IN", "ZipCode": "47025", "Longitude": -84.856995, "Latitude": 39.107468 }, "geometry": { "type": "Point", "coordinates": [ -84.856995, 39.107468 ] } },
+{ "type": "Feature", "properties": { "Provider Name": "Richmond Treatment Center, LLC", "Address": "4265 S A St.", "City": "Richmond", "State": "IN", "ZipCode": "47374", "Longitude": -84.842995, "Latitude": 39.82718 }, "geometry": { "type": "Point", "coordinates": [ -84.842995, 39.82718 ] } }
+]
+}

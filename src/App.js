@@ -3,7 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 import {Launcher} from 'react-chat-window';
 import { Navbar, Nav, NavDropdown, Form, FormControl, Button } from 'react-bootstrap';
-import GoogleApiWrapper from './MapsContainer';
+// import GoogleApiWrapper from './MapsContainer';
+import Map from './Map'
 
 function App() {
   return (
@@ -43,7 +44,7 @@ function App() {
         </div>
       </header>
       <div>
-        <GoogleApiWrapper></GoogleApiWrapper>
+        <Map />
       </div>
       <body className="App-body">
       <Launcher

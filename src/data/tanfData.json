@@ -1,0 +1,1550 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.89712,37.94909 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Posey County DFR",
+    "Address":"1809 N. Main Street Suite B",
+    "City":"Mount Vernon",
+    "State":"IN",
+    "ZipCode":47620
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.56768,38.360126 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Gibson County DFR",
+    "Address":"104 E. Spruce Street",
+    "City":"Princeton",
+    "State":"IN",
+    "ZipCode":47670
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.55429,37.97633 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Vanderburgh County DFR",
+    "Address":"711 John Street Suite C",
+    "City":"Evansville",
+    "State":"IN",
+    "ZipCode":47713
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.522026,41.61739 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Hammond Office, Lake County DFR",
+    "Address":"5255 Hohman Avenue",
+    "City":"Hammond",
+    "State":"IN",
+    "ZipCode":46320
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.5072,38.68829 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Knox County DFR",
+    "Address":"2335 North 6th Street",
+    "City":"Vincennes",
+    "State":"IN",
+    "ZipCode":47591
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.444984,41.64583 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"East Chicago Office, Lake County DFR",
+    "Address":"3714 Main Street",
+    "City":"East Chicago",
+    "State":"IN",
+    "ZipCode":46312
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.40589,39.094032 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Sullivan County DFR",
+    "Address":"124 S. State Street",
+    "City":"Sullivan",
+    "State":"IN",
+    "ZipCode":47882
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.3983,39.660618 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Vermillion County DFR",
+    "Address":"121 N. Main Street",
+    "City":"Clinton",
+    "State":"IN",
+    "ZipCode":47842
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.390594,39.5067 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Vigo County DFR",
+    "Address":"1800 Fort Harrison Road Suite 17",
+    "City":"Terre Haute",
+    "State":"IN",
+    "ZipCode":47804
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.33791,41.427414 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Crown Point Office, Lake County DFR",
+    "Address":"1865 E. Summit Street",
+    "City":"Crown Point",
+    "State":"IN",
+    "ZipCode":46307
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.33713,41.59913 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Gary Office, Lake County DFR",
+    "Address":"661 Broadway",
+    "City":"Gary",
+    "State":"IN",
+    "ZipCode":46402
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.33508,41.549908 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Glen Park Office, Lake County DFR",
+    "Address":"110 W. Ridge Road",
+    "City":"Gary",
+    "State":"IN",
+    "ZipCode":46409
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.32026,40.616745 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Benton County DFR",
+    "Address":"305 E. 6th Street",
+    "City":"Fowler",
+    "State":"IN",
+    "ZipCode":47944
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.29518,40.287918 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Warren County Division of Family Resources",
+    "Address":"20 B W. 2nd Street",
+    "City":"Williamsport",
+    "State":"IN",
+    "ZipCode":47993
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.26008,38.497433 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Pike County DFR",
+    "Address":"2105 E. Main Street Suite B",
+    "City":"Petersburg",
+    "State":"IN",
+    "ZipCode":47567
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.24988,40.11424 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Fountain County DFR",
+    "Address":"304 N. Sterling Avenue Suite A",
+    "City":"Veedersburg",
+    "State":"IN",
+    "ZipCode":47987
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.235,39.774944 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Parke County DFR",
+    "Address":"513 Rockville Road",
+    "City":"Rockville",
+    "State":"IN",
+    "ZipCode":47872
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.23458,41.55067 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Hobart Office, Lake County DFR",
+    "Address":"1871 East 37th Avenue",
+    "City":"Hobart",
+    "State":"IN",
+    "ZipCode":46342
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.185326,38.65185 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Daviess County DFR",
+    "Address":"900 West National Highway Suite 4",
+    "City":"Washington",
+    "State":"IN",
+    "ZipCode":47501
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.15579,40.925144 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Jasper County DFR - IMPACT",
+    "Address":"841 South College Avenue",
+    "City":"Rensselaer",
+    "State":"IN",
+    "ZipCode":47978
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.13888,39.520424 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Clay County DFR",
+    "Address":"1017 E. National Avenue",
+    "City":"Brazil",
+    "State":"IN",
+    "ZipCode":47834
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.04621,37.884254 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Spencer County DFR",
+    "Address":"201 Elm Street",
+    "City":"Rockport",
+    "State":"IN",
+    "ZipCode":47635
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.93641,38.42361 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Dubois County DFR",
+    "Address":"135 37th St. Suite A",
+    "City":"Jasper",
+    "State":"IN",
+    "ZipCode":47546
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.93641,38.42361 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Dubois County DFR - IMPACT",
+    "Address":"135 37th St. Suite A",
+    "City":"Jasper",
+    "State":"IN",
+    "ZipCode":47546
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.9271,39.02719 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Greene County DFR",
+    "Address":"104 County Road 70 E Suite D",
+    "City":"Bloomfield",
+    "State":"IN",
+    "ZipCode":47424
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.87449,41.688335 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"La Porte County DFR",
+    "Address":"1551 S. Woodland Avenue",
+    "City":"Michigan City",
+    "State":"IN",
+    "ZipCode":46360
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.828995,40.411057 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Tippecanoe County DFR",
+    "Address":"823 Park East Blvd Ste A",
+    "City":"Lafayette",
+    "State":"IN",
+    "ZipCode":47905
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.79828,38.671146 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Martin County DFR",
+    "Address":"609 Ravine Street",
+    "City":"Shoals",
+    "State":"IN",
+    "ZipCode":47581
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.7752,40.757805 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"White County DFR",
+    "Address":"1011 N. 6th Street",
+    "City":"Monticello",
+    "State":"IN",
+    "ZipCode":47960
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.75758,39.28615 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Owen County DFR",
+    "Address":"450 E. Franklin Street Suite B",
+    "City":"Spencer",
+    "State":"IN",
+    "ZipCode":47460
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.74077,37.968204 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Perry County DFR",
+    "Address":"8735 State Road 37 Suite A",
+    "City":"Tell City",
+    "State":"IN",
+    "ZipCode":47586
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.66699,40.581448 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Carroll County DFR",
+    "Address":"901 Prince William Rd Suite F",
+    "City":"Delphi",
+    "State":"IN",
+    "ZipCode":46923
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.62064,41.27621 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Starke County DFR",
+    "Address":"1921 S. Heaton Street",
+    "City":"Knox",
+    "State":"IN",
+    "ZipCode":46534
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.60336,41.058094 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Pulaski County DFR",
+    "Address":"710 N. Plymouth Road",
+    "City":"Winamac",
+    "State":"IN",
+    "ZipCode":46996
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.5347,39.181126 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Monroe County DFR",
+    "Address":"1711 N. College Avenue Suite 101",
+    "City":"Bloomington",
+    "State":"IN",
+    "ZipCode":47404
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.512344,40.281612 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Clinton County DFR",
+    "Address":"51 W. Washington Street",
+    "City":"Frankfort",
+    "State":"IN",
+    "ZipCode":46041
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.491425,40.039326 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Boone County DFR",
+    "Address":"362 N. Mt. Zion Road",
+    "City":"Lebanon",
+    "State":"IN",
+    "ZipCode":46052
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.4827,38.864822 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Lawrence County DFR",
+    "Address":"1212 I Street Suite 3",
+    "City":"Bedford",
+    "State":"IN",
+    "ZipCode":47421
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.46844,38.558655 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Orange County DFR",
+    "Address":"326 N. Gospel Street, Suite B",
+    "City":"Paoli",
+    "State":"IN",
+    "ZipCode":47454
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.38391,38.366554 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Crawford County DFR",
+    "Address":"4030 E. Goodman Ridge Rd.",
+    "City":"Marengo",
+    "State":"IN",
+    "ZipCode":47140
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.36447,39.71485 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Hendricks County DFR",
+    "Address":"2471 E. Main Street",
+    "City":"Plainfield",
+    "State":"IN",
+    "ZipCode":46168
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.314095,41.3423 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Marshall County DFR",
+    "Address":"510 W. Adams Street Suite 210",
+    "City":"Plymouth",
+    "State":"IN",
+    "ZipCode":46563
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.26938,39.54475 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Morgan County DFR",
+    "Address":"7851 Waverly Road",
+    "City":"Martinsville",
+    "State":"IN",
+    "ZipCode":46151
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.25825,39.794693 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"West - Marion Co. DFR",
+    "Address":"5610 Crawfordsville Rd. Suite 500",
+    "City":"Indianapolis",
+    "State":"IN",
+    "ZipCode":46224
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.247055,41.67777 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Colfax Ave. Office, St.Joseph County DFR",
+    "Address":"401 East Colfax Ave. Suite 375",
+    "City":"South Bend",
+    "State":"IN",
+    "ZipCode":46617
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.21692,41.05793 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Fulton County DFR",
+    "Address":"1519 Main Street",
+    "City":"Rochester",
+    "State":"IN",
+    "ZipCode":46975
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.1893,41.66217 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Mishawaka Office, St.Joseph County DFR",
+    "Address":"102 N. Center Street, Suite 500",
+    "City":"Mishawaka",
+    "State":"IN",
+    "ZipCode":46544
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.15677,39.81497 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Central - Marion Co. DFR",
+    "Address":"3266 N. Meridian St. Suite 400",
+    "City":"Indianapolis",
+    "State":"IN",
+    "ZipCode":46208
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.13149,40.489914 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Howard County DFR",
+    "Address":"114 West Jackson Street",
+    "City":"Kokomo",
+    "State":"IN",
+    "ZipCode":46901
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.11933,39.86237 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"North - Marion Co. DFR",
+    "Address":"2620 Kessler Blvd. E. Dr. Suite 100",
+    "City":"Indianapolis",
+    "State":"IN",
+    "ZipCode":46220
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.094444,38.61127 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Washington County DFR",
+    "Address":"709 Anson Street",
+    "City":"Salem",
+    "State":"IN",
+    "ZipCode":47167
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.067345,40.754147 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Miami County DFR",
+    "Address":"14 S. Wabash Street",
+    "City":"Peru",
+    "State":"IN",
+    "ZipCode":46970
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.06426,39.784573 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"East - Marion Co. DFR",
+    "Address":"1213 N. Arlington Avenue",
+    "City":"Indianapolis",
+    "State":"IN",
+    "ZipCode":46219
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.04932,40.28202 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Tipton County DFR",
+    "Address":"701 E. Jefferson Street Suite 2",
+    "City":"Tipton",
+    "State":"IN",
+    "ZipCode":46072
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.02617,39.480736 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Johnson County DFR",
+    "Address":"1774 E Jefferson St",
+    "City":"Franklin",
+    "State":"IN",
+    "ZipCode":46131
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.012146,40.03636 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Hamilton County DFR",
+    "Address":"1101 S. 10th Street",
+    "City":"Noblesville",
+    "State":"IN",
+    "ZipCode":46060
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.975784,41.686733 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Elkhart County DFR",
+    "Address":"225 East Jackson Blvd",
+    "City":"Elkhart",
+    "State":"IN",
+    "ZipCode":46516
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.8985,39.248985 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Bartholomew County DFR",
+    "Address":"2330 Poshard Drive",
+    "City":"Columbus",
+    "State":"IN",
+    "ZipCode":47203
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.82568,40.802578 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Wabash County DFR",
+    "Address":"403 South Cass Street",
+    "City":"Wabash",
+    "State":"IN",
+    "ZipCode":46992
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.82552,41.237984 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Kosciusko County DFR",
+    "Address":"2307 E. Center Street Suite E",
+    "City":"Warsaw",
+    "State":"IN",
+    "ZipCode":46580
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.81568,38.328693 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Floyd County DFR",
+    "Address":"824 University Woods Drive Suite 11",
+    "City":"New Albany",
+    "State":"IN",
+    "ZipCode":47150
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.76981,39.80057 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Hancock County DFR",
+    "Address":"1290 North State Street Suite A",
+    "City":"Greenfield",
+    "State":"IN",
+    "ZipCode":46140
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.69315,40.569965 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Grant County DFR",
+    "Address":"830 N. Miller Avenue",
+    "City":"Marion",
+    "State":"IN",
+    "ZipCode":46952
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.50037,40.870018 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Huntington County DFR",
+    "Address":"1175 Etna Avenue",
+    "City":"Huntington",
+    "State":"IN",
+    "ZipCode":46750
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.49148,41.16707 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Whitley County DFR",
+    "Address":"543 N. Line Street Suite B",
+    "City":"Columbia City",
+    "State":"IN",
+    "ZipCode":46725
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.44249,39.601242 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Rush County DFR",
+    "Address":"148 E. US Highway 52",
+    "City":"Rushville",
+    "State":"IN",
+    "ZipCode":46173
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.43755,41.395668 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Warrick County DFR",
+    "Address":"911 W. Main Street",
+    "City":"Boonville",
+    "State":"IN",
+    "ZipCode":46701
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.4191,40.1835 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Delaware County DFR",
+    "Address":"1107 S. Tillotson Avenue Suite 2",
+    "City":"Muncie",
+    "State":"IN",
+    "ZipCode":47304
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.39636,38.78534 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Jefferson County DFR",
+    "Address":"493 W. Hutchinson Lane Suite A",
+    "City":"Madison",
+    "State":"IN",
+    "ZipCode":47250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.37917,39.9351 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Henry County DFR",
+    "Address":"517 New York Avenue",
+    "City":"New Castle",
+    "State":"IN",
+    "ZipCode":47362
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.25721,39.05898 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Ripley County DFR",
+    "Address":"888 S. Adams Street",
+    "City":"Versailles",
+    "State":"IN",
+    "ZipCode":47042
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.13455,41.0501 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Allen County DFR",
+    "Address":"201 E. Rudisill Boulevard Suite 302",
+    "City":"Fort Wayne",
+    "State":"IN",
+    "ZipCode":46806
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.13084,39.65017 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Fayette County DFR",
+    "Address":"1501 N. Eastern Avenue",
+    "City":"Connersville",
+    "State":"IN",
+    "ZipCode":47331
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.08174,38.73911 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Switzerland County DFR",
+    "Address":"1035 W. Main Street Suite 3",
+    "City":"Vevay",
+    "State":"IN",
+    "ZipCode":47043
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.07137,41.358902 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"DeKalb County DFR",
+    "Address":"1390 South Grandstaff Drive",
+    "City":"Auburn",
+    "State":"IN",
+    "ZipCode":46706
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.07137,41.358902 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"DeKalb County DFR - IMPACT",
+    "Address":"1390 South Grandstaff Drive",
+    "City":"Auburn",
+    "State":"IN",
+    "ZipCode":46706
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.018524,39.422497 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Franklin County DFR",
+    "Address":"12050 Saint Mary's Road Suite A",
+    "City":"Brookville",
+    "State":"IN",
+    "ZipCode":47012
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.99634,41.6572 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Steuben County DFR",
+    "Address":"202 E. Harcourt Road Suite V",
+    "City":"Angola",
+    "State":"IN",
+    "ZipCode":46703
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9925,40.43923 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Jay County DFR",
+    "Address":"1043 W. Votaw Street",
+    "City":"Portland",
+    "State":"IN",
+    "ZipCode":47371
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.98134,40.173836 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Randolph County DFR",
+    "Address":"221 N. Main Street",
+    "City":"Winchester",
+    "State":"IN",
+    "ZipCode":47394
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.936005,40.817616 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Adams County DFR",
+    "Address":"1145 Bollman Street",
+    "City":"Decatur",
+    "State":"IN",
+    "ZipCode":46733
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.93093,39.63832 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Union County DFR",
+    "Address":"303A N. Main Street",
+    "City":"Liberty",
+    "State":"IN",
+    "ZipCode":47353
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.898766,39.828346 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Wayne County DFR",
+    "Address":"50 South 2nd Street",
+    "City":"Richmond",
+    "State":"IN",
+    "ZipCode":47374
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.8574,38.947567 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Ohio County DFR",
+    "Address":"308 North High Street Suite B",
+    "City":"Rising Sun",
+    "State":"IN",
+    "ZipCode":47040
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.85073,39.092354 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Dearborn County DFR",
+    "Address":"230 Mary Avenue Suite 100",
+    "City":"Greendale",
+    "State":"IN",
+    "ZipCode":47025
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3404,40.4662 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Blackford County DFR",
+    "Address":"1800 N. Walnut Street",
+    "City":"Hartford City",
+    "State":"IN",
+    "ZipCode":47348
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.2454,39.2103 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Brown County DFR",
+    "Address":"121 Locust Lane",
+    "City":"Nashville",
+    "State":"IN",
+    "ZipCode":47448
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.9335,40.9519 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Cass County DFR",
+    "Address":"1 Cass City Center Suite 301",
+    "City":"Logansport",
+    "State":"IN",
+    "ZipCode":46974
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.6964,38.3327 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Clark County DFR",
+    "Address":"285 Quartermaster Court",
+    "City":"Jeffersonville",
+    "State":"IN",
+    "ZipCode":47130
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.6964,38.3327 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Clark County DFR - IMPACT",
+    "Address":"285 Quartermaster Court",
+    "City":"Jeffersonville",
+    "State":"IN",
+    "ZipCode":47130
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.4783,39.306 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Decatur County DFR",
+    "Address":"905 W. Keegans Way Suite 3",
+    "City":"Greensburg",
+    "State":"IN",
+    "ZipCode":47240
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.1349,38.233 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Harrison County DFR",
+    "Address":"2201 Concord Avenue NW Suite 120",
+    "City":"Corydon",
+    "State":"IN",
+    "ZipCode":47112
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.9377,38.9665 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Jackson County DFR",
+    "Address":"320 Dupont Drive",
+    "City":"Seymour",
+    "State":"IN",
+    "ZipCode":47274
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.6376,39.0128 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Jennings County DFR",
+    "Address":"1171 N. State Street",
+    "City":"North Vernon",
+    "State":"IN",
+    "ZipCode":47265
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.4227,41.6545 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"LaGrange County DFR",
+    "Address":"826 N. Detroit Street",
+    "City":"LaGrange",
+    "State":"IN",
+    "ZipCode":46761
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.6758783,40.1066034 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Madison County DFR",
+    "Address":"222 E. 10th Street Suite E",
+    "City":"Anderson",
+    "State":"IN",
+    "ZipCode":46016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.8996,40.02432683 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Montgomery County DFR",
+    "Address":"1633 Eastway Drive",
+    "City":"Crawfordsville",
+    "State":"IN",
+    "ZipCode":47933
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.4387,40.9376 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Newton County DFR",
+    "Address":"4117 S. 240 W. Suite 200B",
+    "City":"Morocco",
+    "State":"IN",
+    "ZipCode":47963
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.4184,41.4038 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Noble County DFR",
+    "Address":"774 Trail Ridge Rd Suite C",
+    "City":"Albion",
+    "State":"IN",
+    "ZipCode":46701
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.84106875,39.6421 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Putnam County DFR",
+    "Address":"1020 Avenue F Suite A",
+    "City":"Greencastle",
+    "State":"IN",
+    "ZipCode":46135
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7982,38.7023 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Scott County DFR",
+    "Address":"1048 W. Community Way",
+    "City":"Scottsburg",
+    "State":"IN",
+    "ZipCode":47170
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.0902,39.5519 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Shelby County DFR",
+    "Address":"2565 Parkway Drive Suite 2",
+    "City":"Shelbyville",
+    "State":"IN",
+    "ZipCode":46176
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.16815254,40.75068051 ]
+    },
+    "properties": {
+    "Service Type":"TANF (cash assistance)",
+    "Provider Name":"Wells County DFR",
+    "Address":"915 North Main Street Suite 102",
+    "City":"Bluffton",
+    "State":"IN",
+    "ZipCode":46714
+    }
+  }
+]
+}
