@@ -16,21 +16,23 @@ import ServicesPage from './ServicesPage';
 
 function App() {
   return (
+ 
     <div className="App">
       <div><HeaderComponent></HeaderComponent></div>
       <div className="SwitchDiv" style={{ marginTop: "10px"}}>
         <Switch >
-          <Route path="/Tutorial" render={() => <div><TutorialPage /></div>} />
-          <Route path="/About" render={() => <div><AboutPage /></div>} />
-          <Route path="/Services/ResourceMap" render={() => <div><Map /></div>} />
-          <Route path="/Services/LegalResources" render={() => <div><LegalResourcePage /></div>} />
-          <Route path="/Services/Organizations" render={() => <div><OrganizationsPage /></div>} />
-          <Route path="/Services" render={() => <div><ServicesPage /></div>} />
+          <Route path="/Tutorial" render={() => <div className="TutorialSwitchWrapper"><TutorialPage /></div>} />
+          <Route path="/About" render={() => <div className="AboutSwitchWrapper"><AboutPage /></div>} />
+          <Route path="/Services/ResourceMap" render={() => <div className="MapSwitchWrapper"><Map /></div>} />
+          <Route path="/Services/LegalResources" render={() => <div className="LegalSwitchWrapper"><LegalResourcePage /></div>} />
+          <Route path="/Services/Organizations" render={() => <div className="OrganizationSwitchWrapper"><OrganizationsPage /></div>} />
+          <Route path="/Services" render={() => <div className="ServicesSwitchWrapper"><ServicesPage /></div>} />
           <Route path='/' render={() =><div>
             <HomePage></HomePage>
           </div>} />
         </Switch>
       </div>
+     
       {/* <div>
         <Map />
       </div> */}

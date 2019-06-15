@@ -1,5 +1,5 @@
 .App-header {
-    background-color: #282c34;
+    background-color: white !important;
     min-height: 12%;
     /* height: 12vh; */
     display: flex;
@@ -7,8 +7,15 @@
     align-items: center;
     justify-content: center;
     font-size: calc(10px + 2vmin);
+    
     color: white;
   }
+
+.homePageWrapper{
+  background-color: rgb(42,153,136);
+  min-width: 100vw;
+  min-height: 100%;
+}
 
 .NavigationBar {
     background-color: rgb(42,153,136);
@@ -27,6 +34,7 @@
   .BootstrapNav {
     min-height: 100%;
     font-size: calc(10px + 2vmin);
+    background-color: rgb(42,153,136) !important;
   }
   .WebsiteTitleLogo{
     display: flex;
@@ -41,11 +49,12 @@
   .NavLink{
       display: flex;
       align-items: center;
-      padding: 0% 1%;
-      border: 2px solid black;
+      padding: 0% 2%;
+      border: 2px solid #d6b500;
       border-top-style: none;
       border-bottom-style: none;
-      border-right-style: none; 
+      border-right-style: none;
+      color: rgb(41, 179, 158);
   }
   .searchForm{
     height: 100%;
@@ -55,6 +64,24 @@
       flex-direction: row;
       justify-content: flex-end;
   }
-  .mr-auto{
-      margin:0px;
-  }
+.navbar-collapse{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+@media only screen and (max-width: 995px){
+    .navbar-collapse{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+}
+@media only screen and (min-width: 996px){
+    .navbar-nav{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+}

@@ -22,7 +22,7 @@ export class HeaderComponent extends React.Component {
                     </Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
-                    <Nav className="mr-auto">
+                    <Nav>
                         <Nav.Item className="NavLink" as={Link} to="/">Home</Nav.Item>
                         <Nav.Item className="NavLink" as={Link} to="/Tutorial">Tutorial</Nav.Item>
                         <Nav.Item className="NavLink" as={Link} to="/About">About Us</Nav.Item>
