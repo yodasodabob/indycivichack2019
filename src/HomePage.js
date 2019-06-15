@@ -13,8 +13,8 @@ export class HomePage extends React.Component{
                   to make it easier.</h1>
                 <p> 
                    With the resources we have gathered, we
-                  are dedicated in helping those who have been incarcerated
-                  get the right step in for a better future.
+                  are dedicated to helping those who have been incarcerated
+                  get the right start for a better future.
 
                 </p>
                 </div>
