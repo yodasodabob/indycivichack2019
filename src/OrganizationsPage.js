@@ -20,6 +20,19 @@ export class OrganizationsPage extends React.Component{
                 <p>The Re-Entry Division, utilizing evidence-based practices, promotes the assessment of each offender's criminogenic needs and encourages a culture of accountability and collaboration.
                     <br /> We value targeted programming to establish a comprehensive Re-Entry model that advocates for a skilled and ready workforce.
                 </p>
+                <br / >
+
+                <h5><a href = "https://www.nami.org/Find-Support/Living-with-a-Mental-Health-Condition/Reentry-After-a-Period-of-Incarceration">National Alliance of Mental Illness</a></h5>  
+                <p>Re-entry after a period of incarceration</p>  
+
+                <br />
+
+                <h5><a href = "https://www.paceindy.org/about-us/">Pace Indy</a></h5>
+                <p>If we provide the right tools, our clients can choose to become responsible, productive members of society. PACE accepts anyone with a felony conviction and needs assistance, no matter how long ago that felony occurred.</p>
+                 
+                <br />
+
+                
             </div>
             </div>
         )
