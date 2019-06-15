@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
 .App {
   text-align: center;
 }
@@ -19,20 +21,53 @@
 }
 
 .App-body {
-  background-color: aqua;
+  background-color: white;
   min-height: 80%;
   height: 80vh;
 }
 
 .WebsiteTitle {
-  background-color: black;
+  background-color: #E0E0E0;
   min-height: 11vh;
   min-width: 100vw;
+  font-family: 'Montserrat', sans-serif;
+  color:  black;
+  line-height: 100px;
+  padding-right: 900px;
+
 
 }
 
 .NavigationBar {
-  background-color: #1a4721;
-  min-height: 9vh;
-  min-width: 100vw;
+  background-color: rgb(42,153,136);
+  color: rgb(214, 181, 0);
+  width: 1000px;
+  min-height: 100vh;
+  padding: 50px;
+  margin: 20px;
+  font-size: 50px;
+  text-align: center;
+  background-attachment: fixed;
+  background-position: center;
+
+  -webkit-animation: fadein 2s;
+  -moz-animation: fadein 2s;
+  
+}
+
+@keyframes fadein {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+@-moz-keyframes fadein {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+@-webkit-keyframes fadein {
+
+  from {opacity: 0; }
+  to {opacity: 1;}
+
 }

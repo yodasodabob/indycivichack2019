@@ -9,9 +9,14 @@ function App() {
       <header className="App-header">
         <div className="WebsiteTitle">
           <text>Mandela Effect</text>
+          <div class="tab">
+            <button class="tablinks" onclick="openCity(event, 'Whatever')">Whatever</button>
+            <button class="tablinks" onclick="openCity(event, 'About)"> About</button>
+            <button class="tablinks" onclick="openCity(event, 'Whatadoop')"> Potato</button>
+          </div>
         </div>
-        <div className="NavigationBar">
-          <text>Navigation Bar</text>  
+        <div className="NavigationBar" height="200">
+          <text>Welcome</text>  
         </div>
       </header>
       <body className="App-body">
