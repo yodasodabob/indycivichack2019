@@ -1,5 +1,5 @@
 .App-header {
-    background-color: #282c34;
+    background-color: white !important;
     min-height: 12%;
     /* height: 12vh; */
     display: flex;
@@ -7,8 +7,15 @@
     align-items: center;
     justify-content: center;
     font-size: calc(10px + 2vmin);
+    
     color: white;
   }
+
+.homePageWrapper{
+  background-color: rgb(42,153,136);
+  min-width: 100vw;
+  min-height: 100%;
+}
 
 .NavigationBar {
     background-color: rgb(42,153,136);
@@ -27,6 +34,7 @@
   .BootstrapNav {
     min-height: 100%;
     font-size: calc(10px + 2vmin);
+    background-color: rgb(42,153,136) !important;
   }
   .WebsiteTitleLogo{
     display: flex;

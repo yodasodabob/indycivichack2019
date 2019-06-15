@@ -16,6 +16,7 @@ import ServicesPage from './ServicesPage';
 
 function App() {
   return (
+ 
     <div className="App">
       <div><HeaderComponent></HeaderComponent></div>
       <div className="SwitchDiv" style={{ marginTop: "10px"}}>
@@ -31,6 +32,7 @@ function App() {
           </div>} />
         </Switch>
       </div>
+     
       {/* <div>
         <Map />
       </div> */}

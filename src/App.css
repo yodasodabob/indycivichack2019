@@ -4,7 +4,9 @@
   text-align: center;
   min-height: 300px;
   height: 100%;
-  max-height: 900px
+  max-height: 50vh;
+  background-color: #2A9988;
+  
 }
 
 .App-link {
@@ -12,9 +14,9 @@
 }
 
 .App-body {
-  background-color: white;
+  background-color: #2A9988;
   min-height: 80%;
-  height: 80vh;
+  height: 50vh;
 }
 .SwitchDiv{
   min-height: 100%;
