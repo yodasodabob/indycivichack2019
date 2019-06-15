@@ -6,3 +6,14 @@ p {text-align: left;
 .LegalResourceBody{
     background-color: #2A9988;
 }
+
+a{
+    color:#e0c52b;
+}
+
+a:hover{
+    background-color: #968316;
+    border-radius: 2rem;
+    padding: .4rem;
+    color: #fffbe4;
+}
