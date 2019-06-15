@@ -9,11 +9,11 @@ export class HomePage extends React.Component{
             <div className="homePageWrapper">
             <div className="homeBody">
                 <div className="introPara">
-                <h1>The path to re-entry shouldn't be hard; we're here
+                <h1 id="header1">The path to re-entry shouldn't <br></br> be hard; we're here
                   to make it easier.</h1>
-                <p> 
-                   With the resources we have gathered, we
-                  are dedicated in helping those who have been incarcerated
+                <p id="paragraph1"> 
+                   With the resources we have gathered, we are dedicated in helping
+                    those who have been incarcerated
                   get the right step in for a better future.
 
                 </p>

@@ -12,11 +12,24 @@
 .introPara{
 
     padding-top: 300px;
-    text-align: center;
-
+    text-align: center; 
     
 
 }
+
+#header1{
+
+    text-emphasis: bold;
+    font-size: 40pt;
+    padding-bottom: 50px;
+  }
+
+  #paragraph1{
+      text-emphasis: bold;
+        font-size: 20pt;
+        text-align: center;
+        color: white;
+  }
 .homePageWrapper{
     background-color: #2A9988;
     display: flex;
