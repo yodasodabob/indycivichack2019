@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './seedling-sprout-svgimage.svg';
 import './App.css';
 import {Launcher} from 'react-chat-window';
 import { Navbar, Nav, NavDropdown, Form, FormControl, Button } from 'react-bootstrap';
@@ -9,32 +9,33 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        {/* <div className="WebsiteTitle">
-          <h1>Mandela Effect</h1>
-          
-        </div> */}
         <div className="NavigationBar">
-          {/* <div className="tab">
-            <button className="tablinks" onclick="openCity(event, 'Whatever')">Whatever</button>
-            <button className="tablinks" onclick="openCity(event, 'About)"> About</button>
-            <button className="tablinks" onclick="openCity(event, 'Whatadoop')"> Potato</button>
-          </div> */}
-          <Navbar bg="light" expand="lg">
-            <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
-            <Navbar.Toggle aria-controls="basic-navbar-nav" />
-            <Navbar.Collapse id="basic-navbar-nav">
+          <Navbar className="BootstrapNav" bg="dark" variant="dark" expand="lg">
+            <Navbar.Brand className="WebsiteTitleLogo" href="#home">
+              <img
+                alt=""
+                src={logo}
+                width="50"
+                height="50"
+                className="pictureLogo"
+              />
+              {' Mandela Effect'}
+            </Navbar.Brand>
+            <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+            <Navbar.Collapse id="responsive-navbar-nav">
               <Nav className="mr-auto">
                 <Nav.Link href="#home">Home</Nav.Link>
-                <Nav.Link href="#link">Link</Nav.Link>
-                <NavDropdown title="Dropdown" id="basic-nav-dropdown">
-                  <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
-                  <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
-                  <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
+                <Nav.Link href="Map">Resource Locator</Nav.Link>
+                <NavDropdown title="Legal Resources" id="basic-nav-dropdown">
+                  <NavDropdown.Item href="#LegalAdvice">Advice</NavDropdown.Item>
+                  <NavDropdown.Item href="#LegalRepresentation">Representation</NavDropdown.Item>
+                  <NavDropdown.Item href="#LegalRights">Know Your Rights</NavDropdown.Item>
                   <NavDropdown.Divider />
-                  <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
+                  <NavDropdown.Item href="#LegalQuickTips">Quick Tips</NavDropdown.Item>
                 </NavDropdown>
+                <Nav.Link href="#About">About Us</Nav.Link>
               </Nav>
-              <Form inline>
+              <Form className="searchForm" inline>
                 <FormControl type="text" placeholder="Search" className="mr-sm-2" />
                 <Button variant="outline-success">Search</Button>
               </Form>
